@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Slide from 'react-reveal/Slide';
-import Slider from 'react-slick';
+
 
 export default class CountDown extends Component {
 
