@@ -3,6 +3,7 @@ import './resources/styles.css'
 import Header from './components/header_footer/Header'
 import Featured from './components/featured/index'
 import VenueInfo from './components/venueInfo'
+import Highlight from './components/Highlights'
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Header />
       <Featured /> 
       <VenueInfo/>
+      <Highlight />
     </div>
   );
 }
